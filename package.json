@@ -1,0 +1,34 @@
+{
+  "name": "proyecto",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chart.js": "^2.7.3",
+    "currency.js": "^1.2.1",
+    "frappe-charts": "^1.1.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "vue": "^2.5.17",
+    "vue-chartkick": "^0.5.0",
+    "vue-router": "^3.0.1",
+    "vue-snotify": "^3.2.1",
+    "vuex": "^3.0.1",
+    "vuex-persistedstate": "^2.5.4",
+    "vuex-router-sync": "^5.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.5",
+    "@vue/cli-plugin-eslint": "^3.0.5",
+    "@vue/cli-service": "^3.0.5",
+    "@vue/eslint-config-airbnb": "^3.0.5",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
