@@ -3,7 +3,7 @@ import store from './store/';
 
 export default () => {
   return axios.create({
-    baseURL: store.state.baseUrl,
+    baseURL: 'https://easycommerce-andres.herokuapp.com/api',
     timeout: 10000,
     headers: {
       Authorization: `Bearer ${store.state.authentication.token}`,
