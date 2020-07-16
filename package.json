@@ -12,7 +12,7 @@
     "chart.js": "^2.7.3",
     "currency.js": "^1.2.1",
     "frappe-charts": "^1.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "moment": "^2.22.2",
     "vue": "^2.5.17",
     "vue-chartkick": "^0.5.0",
