@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "currency.js": "^1.2.1",
     "frappe-charts": "^1.1.0",
     "lodash": "^4.17.11",
